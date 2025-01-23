@@ -3,7 +3,7 @@ Project Title:
 RandomRecs: Your Random Dose of Movies and Music
 
 Overview:
-RandomRecs is a simple and fun website that recommends random movies and songs, each paired with quirky, spoiler-free one-liners. The purpose is to help users quickly find something to watch or listen to without getting stuck in the endless cycle of decision-making.
+RandomRecs is a simple and fun website that recommends random under-rated movies and songs, each paired with quirky, spoiler-free one-liners. The purpose is to help users quickly find something to watch or listen to without getting stuck in the endless cycle of decision-making.
 
 Key Features:
 -Randomized movie and song suggestions.
