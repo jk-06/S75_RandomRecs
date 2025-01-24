@@ -1,0 +1,21 @@
+{
+  "name": "s75_randomrecs",
+  "version": "1.0.0",
+  "description": "Project Title:\r RandomRecs: Your Random Dose of Movies and Music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jk-06/S75_RandomRecs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jk-06/S75_RandomRecs/issues"
+  },
+  "homepage": "https://github.com/jk-06/S75_RandomRecs#readme"
+}
