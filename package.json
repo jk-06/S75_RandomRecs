@@ -4,7 +4,7 @@
   "description": "Project Title:\r RandomRecs: Your Random Dose of Movies and Music",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/jk-06/S75_RandomRecs/issues"
   },
-  "homepage": "https://github.com/jk-06/S75_RandomRecs#readme"
+  "homepage": "https://github.com/jk-06/S75_RandomRecs#readme",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.1.0",
+    "supertest": "^7.0.0"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
